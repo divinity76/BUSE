@@ -1,3 +1,6 @@
+# BUSEmt
+a multithreaded version of BUSE (in busemt.c)
+
 # BUSE - A block device in userspace
 
 This piece of software was inspired by FUSE, which allows the development of
